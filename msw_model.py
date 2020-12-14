@@ -33,8 +33,7 @@ def sweq(unoise,k,temp):
     output
     ens: background of size 3*nx x k
     """
-    dx = float(500)     
-    dt = float(5)        
+           
     g=10   # Gravitational constant
     kh = ku            # diffusion coefficient for h
     phi=np.zeros((1,nx+2,k))  # potential  
