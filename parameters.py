@@ -43,8 +43,9 @@ kr = 200.0
 h_cloud = 90.005
 h_rain = 90.1
 gamma = 1.0
+dx = float(500)     
+dt = float(5) 
 
-#path = '/project/meteo/w2w/B6/snapshot/'+method+'/'+str(rd)+'/'
 def define_field(wind,height,rain):
     fields = np.array([0,1,2])   
     if wind ==  0:
