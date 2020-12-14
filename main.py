@@ -11,12 +11,9 @@ import random
 import os.path
 import math
 import numpy.linalg as lin
-#import scipy.optimize
-#import matplotlib.pyplot as plt
 import numpy.ma as ma
 import pickle
 from tqdm import tqdm
-#import pdb
 
 def save_obj(obj, name ):
     with open(name + '.pkl', 'wb') as f:
