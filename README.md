@@ -1,4 +1,6 @@
 # MSW_DA_ML
+[![DOI](https://zenodo.org/badge/321384546.svg)](https://zenodo.org/badge/latestdoi/321384546)
+
 This is the code used for the experiment described in <br>
 Ruckstuhl, Y. Janjic, T. & Rasp, S. Training a convolutional neural network to conserve mass in data assimilation, Nonlinear Processes in Geophysics Discussions, 2020, 2020, 1-15
 https://npg.copernicus.org/preprints/npg-2020-38/npg-2020-38.pdf <br>
